@@ -1,0 +1,2 @@
+module lambert_01 {
+}
