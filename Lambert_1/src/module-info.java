@@ -1,2 +1,0 @@
-module Lambert_1 {
-}
